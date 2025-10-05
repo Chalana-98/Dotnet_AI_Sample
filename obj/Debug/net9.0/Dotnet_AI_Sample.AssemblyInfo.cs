@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Dotnet_AI_Sample")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+22fc01d0cd8adf5535aff1d19e8f2a15279e0060")]
 [assembly: System.Reflection.AssemblyProductAttribute("Dotnet_AI_Sample")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Dotnet_AI_Sample")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

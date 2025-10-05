@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/chalana/Documents/Personal/Projects/Dotnet_AI_Sample/Dotnet_AI_Sample.csproj": {}
+    "/Users/chalana/Documents/Personal/Projects/Dotnet_AI_Sample/Dotnet_AI_Sample/Dotnet_AI_Sample.csproj": {}
   },
   "projects": {
-    "/Users/chalana/Documents/Personal/Projects/Dotnet_AI_Sample/Dotnet_AI_Sample.csproj": {
+    "/Users/chalana/Documents/Personal/Projects/Dotnet_AI_Sample/Dotnet_AI_Sample/Dotnet_AI_Sample.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/chalana/Documents/Personal/Projects/Dotnet_AI_Sample/Dotnet_AI_Sample.csproj",
+        "projectUniqueName": "/Users/chalana/Documents/Personal/Projects/Dotnet_AI_Sample/Dotnet_AI_Sample/Dotnet_AI_Sample.csproj",
         "projectName": "Dotnet_AI_Sample",
-        "projectPath": "/Users/chalana/Documents/Personal/Projects/Dotnet_AI_Sample/Dotnet_AI_Sample.csproj",
+        "projectPath": "/Users/chalana/Documents/Personal/Projects/Dotnet_AI_Sample/Dotnet_AI_Sample/Dotnet_AI_Sample.csproj",
         "packagesPath": "/Users/chalana/.nuget/packages/",
-        "outputPath": "/Users/chalana/Documents/Personal/Projects/Dotnet_AI_Sample/obj/",
+        "outputPath": "/Users/chalana/Documents/Personal/Projects/Dotnet_AI_Sample/Dotnet_AI_Sample/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/chalana/.nuget/NuGet/NuGet.Config"
