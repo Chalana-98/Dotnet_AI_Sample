@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "3KQmNZR7elg=",
+  "success": true,
+  "projectFilePath": "/Users/chalana/Documents/Personal/Projects/Dotnet_AI_Sample/Dotnet_AI_Sample.csproj",
+  "expectedPackageFiles": [
+    "/Users/chalana/.nuget/packages/microsoft.extensions.ai.abstractions/9.9.1/microsoft.extensions.ai.abstractions.9.9.1.nupkg.sha512",
+    "/Users/chalana/.nuget/packages/microsoft.extensions.ai.openai/9.9.1-preview.1.25474.6/microsoft.extensions.ai.openai.9.9.1-preview.1.25474.6.nupkg.sha512",
+    "/Users/chalana/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.2/microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
+    "/Users/chalana/.nuget/packages/microsoft.extensions.logging.abstractions/8.0.3/microsoft.extensions.logging.abstractions.8.0.3.nupkg.sha512",
+    "/Users/chalana/.nuget/packages/openai/2.5.0/openai.2.5.0.nupkg.sha512",
+    "/Users/chalana/.nuget/packages/system.clientmodel/1.6.1/system.clientmodel.1.6.1.nupkg.sha512",
+    "/Users/chalana/.nuget/packages/system.memory.data/8.0.1/system.memory.data.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

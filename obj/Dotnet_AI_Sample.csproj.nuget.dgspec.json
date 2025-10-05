@@ -1,0 +1,73 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/chalana/Documents/Personal/Projects/Dotnet_AI_Sample/Dotnet_AI_Sample.csproj": {}
+  },
+  "projects": {
+    "/Users/chalana/Documents/Personal/Projects/Dotnet_AI_Sample/Dotnet_AI_Sample.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/chalana/Documents/Personal/Projects/Dotnet_AI_Sample/Dotnet_AI_Sample.csproj",
+        "projectName": "Dotnet_AI_Sample",
+        "projectPath": "/Users/chalana/Documents/Personal/Projects/Dotnet_AI_Sample/Dotnet_AI_Sample.csproj",
+        "packagesPath": "/Users/chalana/.nuget/packages/",
+        "outputPath": "/Users/chalana/Documents/Personal/Projects/Dotnet_AI_Sample/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/chalana/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.Extensions.AI.OpenAI": {
+              "target": "Package",
+              "version": "[9.9.1-preview.1.25474.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.305/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
